@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "437871823361",
+    "firebase_url": "https://banino-3bbae.firebaseio.com",
+    "project_id": "banino-3bbae",
+    "storage_bucket": "banino-3bbae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437871823361:android:902215e9ff439c5b",
+        "android_client_info": {
+          "package_name": "sthlm.sweden.christofferwiregren.banino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437871823361-pbpdc1gfd662smm6uotvmnc118ipe2j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sthlm.sweden.christofferwiregren.banino",
+            "certificate_hash": "1f272c82a9f29ec71a819fd719e02db95209c76b"
+          }
+        },
+        {
+          "client_id": "437871823361-6kk8n7jn02qhsvdplgoniup2lico72p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzy10L4wpIu0-_RnCebSWg3hBaMjJrSYU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437871823361-6kk8n7jn02qhsvdplgoniup2lico72p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

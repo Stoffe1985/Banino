@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Banino</string>
+    <string name="action_sign_in_short">Ny användare</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Lösenordet är för kort, det måste minst innehålla 6 karaktärer!</string>
+    <string name="auth_failed">Autentisering misslyckades, kontrollera din e-postadress och ditt lösenord eller registrera dig</string>
+    <string name="change_email">Byt e-mail</string>
+    <string name="change_password">Byt lösenord</string>
+    <string name="send_password_reset_email">Skicka e-post för återställning av lösenord</string>
+    <string name="remove_user">Ta bort användaren</string>
+    <string name="new_pass">Nytt lösenord</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Logga in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Lösenord</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">Logga in</string>
+    <string name="prompt_password">Vänligen ange ditt lösenord</string>
+    <string name="btn_link_to_register">Inte en medlem? Registrera nu!</string>
+    <string name="btn_link_to_login">Redan registrerad, Logga in!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Glömt ditt lösenord?</string>
+    <string name="btn_reset_password">Återställ Lösenord</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">Ny E-post</string>
+    <string name="btn_change">Ändra</string>
+    <string name="btn_send">Skicka</string>
+    <string name="btn_remove">Ta bort</string>
+    <string name="btn_sign_out">Logga ut</string>
+    <string name="lbl_forgot_password">Glömt Lösenord?</string>
+    <string name="forgot_password_msg">Vi behöver bara ditt registrerade e-post-ID för att skicka dig instruktioner för återställning av lösenord.</string>
+    <string name="email_id">Email ID</string>
+    <string name="vlkmen">Välkommen:)</string>
+    <string name="Nickname">Användarnamn</string>
+    <string name="hint_nickname">Användarnamn</string>
+    <string name="app_namee">Banino</string>
+    <string name="minimun_email">Fel email-format!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_nick">Användarnamn</string>
+    <string name="btntextcreategame">Skapa spel</string>
+    <string name="top_ranking">Top Ranking</string>
+    <string name="rules_game">Alla deltagare har hand om fyra olika omdömeskort vardera. De är märkta med siffrorna 1-4 och har i tur och ordning följande text; Stämmer inte alls, Stämmer till någon del, Stämmer i huvudsak samt Stämmer mycket bra.
+        I varje omgång är en deltagare i fokus.
+        Någon drar och läser upp ett egenskapskort (dessa finns blandade i sju olika färger för egenskaper/personlighetsdrag vagt indelade efter något slags naturliga drivkrafter -gult för energi, grönt för inre balans, lila för andlighet, orange för relationer osv.)      Kortet läses högt för alla och samtliga spelare väljer därefter det av sina fyra omdömeskort som allra bäst passar in på aktuell person och uppläst egenskap.      Några exempel på egenskapskort: Noggrann – Jag är grundlig och omsorgsfull. Sexfixerad – Min tankevärld upptas mycket av sex och erotik. Missunnsam – Jag unnar inte andra att få mer än jag. Tävlingsmänniska – Jag presterar mitt bästa när det är som viktigast. Fantasifull – Jag har en livlig och skapande tanke- och idévärld. Flörtig – Jag skickar lättvindigt ut signaler i erotiskt eller vänskapligt syfte. Generös – Jag delar gärna med mig. (Ja, där kom förresten en egenskap från respektive färgkategori, om nu någon la märke till stora skillnader mellan de olika korten…)      När alla valt omdömeskort vänds de upp samtidigt och därmed står det alldeles klart vad samtliga tycker om person X rörande detta personlighetsdrag, denna egenskap. Exakt hur Noggrann, Sexfixerad, Missunnsam osv. tycker nu dennes omgivning att X är? Och exakt vad har person X valt för omdömeskort själv? Hur väl känner man sig själv?      Spelet vinns såklart av den som känner sig själv bäst, eller i alla fall lyckas ha bäst överensstämmelse mellan sina egna svar och majoriteten av motståndarnas, när de tycker till om ens person.      Mest poäng utdelas såklart till personen i heta stolen om samtliga spelare tycker exakt likadant, något färre om man delar uppfattning med de flesta, än färre poäng eller kanske ingen belöning alls om de flesta eller alla andra har en avvikande åsikt.      Det blir naturligtvis siffran på det kort som visas i flest exemplar som anger poängen. Poängen förresten, de kommer i form av så kallade belöningsmynt av papp i spelkortens olika färger. Du samlar på dig en packe mynt (dvs. poäng) och flest vinner efter ett antal spelade varv eller egenskapskort.</string>
+    <string name="ny_anvandare">Välkommen till Banino</string>
+    <string name="reg_btn">Registrera</string>
+    <string name="invite_main">Inbjudningar</string>
+    <string name="invite_sub">Har du blivit inbjuden att delta i ett spel? Du är ett knapptryck från att medverka.</string>
+    <string name="create_game">Skapa Spel</string>
+    <string name="create_game_sub">Skapa ditt eget spel och bjud in dina vänner till din fest!</string>
+    <string name="rules_orangino">Regler</string>
+    <string name="regler_sub">Läs mer om spelet och reglerna.</string>
+    <string name="waiting_room">Ingen Inbjudan(Än)</string>
+    <string name="txt_wait_Sub">Ha tålamod, snart kommer en inbjudan!</string>
+    <string name="btn_next">Nästa</string>
+    <string name="btn_startGame">Starta Spelet</string>
+    <string name="points_title">Poäng</string>
+    <string name="val_two">Stämmer delvis</string>
+    <string name="val_one">Stämmer i huvudsak</string>
+    <string name="val_oneone">Stämmer inte</string>
+    <string name="val_four">Stämmer mycket bra</string>
+    <string name="info_turn">Game turn</string>
+    <string name="deleteGameRequest">Är du säker på att du vill radera spelförfrågan?</string>
+
+    <string name="yes">Ja</string>
+    <string name="no">Nej</string>
+    <string name="ready">Redo för start?</string>
+    <string name="logout">Är du säker på att du vill logga ut?</string>
+    <string name="network">Ingen Internetuppkoppling</string>
+    <string name="usernameTaken">Användarnamnet är upptaget</string>
+
+    <string name="enter_nic">Ange Användarnamn</string>
+    <string name="enter_pass">Ange Lösenord</string>
+    <string name="enter_email">Ange E-mail</string>
+
+    <string name="pass_short"> Lösenord för kort, ange minst 6 tecken!</string>
+    <string name="username_short"> Användarnamnet är för kort, ange minst 6 tecken!</string>
+
+    <string name="val1">Stämmer inte alls</string>
+    <string name="val2">Stämmer till någon del</string>
+    <string name="val3">Stämmer i huvudsak</string>
+    <string name="val4">Stämmer mycket bra</string>
+    <string name="sendPasswordInstruc">Vi har skickat instruktioner för att återställa ditt lösenord!</string>
+    <string name="failedEmailinstrc">Misslyckades med att skicka återställnings-e-post</string>
+    <string name="missU">"Vi saknar dig komma tillbaka!"</string>
+    <string name="oran_sub">Spelet som utvecklar dina nära relationer</string>
+
+
+<string name="enter_reg_email">Ange ditt registrerade Email-ID</string>
+    <string name="show_answer">Ditt svar:</string>
+    <string name="next_turn">Nästa tur</string>
+    <string name="ok">Ok</string>
+    <string name="usernametwotimes">Du kan inte lägga till ett användarnamn 2 gånger</string>
+    <string name="addme">Du kan inte lägga till dig själv</string>
+    <string name="usernamedontexist">Användarnamnet finns inte</string>
+    <string name="SUCCESS">SUCCESS</string>
+    <string name="failedconnect">Misslyckades att ansluta</string>
+    <string name="btn_quite">Avsluta Spel</string>
+    <string name="is_on">är redo!</string>
+    <string name="meddelande">Meddelande</string>
+    <string name="invite_text">Har bjudit in dig</string>
+    <string name="waiting">Väntar..</string>
+    <string name="waitingInfo">"på att alla ska svara "</string>
+    <string name="meddelande_wait">Väntar på besked från inbjudna spelare. Ha tålamod :)</string>
+    <string name="waiting_lobby">Väntrum</string>
+    <string name="creategame">Skapa Spel</string>
+    <string name="invites_title">Inbjudningar</string>
+    <string name="result_title">Resultat</string>
+
+</resources>

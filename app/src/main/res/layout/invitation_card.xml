@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/btnAccept"
+        android:layout_width="0dp"
+        android:layout_height="103dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/rounded_corner" />
+
+    <ImageView
+        android:id="@+id/imageSender"
+        android:layout_width="80dp"
+        android:layout_height="83dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="@+id/btnAccept"
+        app:layout_constraintStart_toStartOf="@+id/btnAccept"
+        app:layout_constraintTop_toTopOf="@+id/btnAccept"
+        app:layout_constraintVertical_bias="0.08"
+        app:srcCompat="@drawable/girl" />
+
+    <TextView
+        android:id="@+id/txtInvitorReady"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Christoffer"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        app:layout_constraintEnd_toEndOf="@+id/txtinvitation"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/imageSender"
+        app:layout_constraintTop_toTopOf="@+id/btnAccept" />
+
+    <TextView
+        android:id="@+id/txtinvitation"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="@string/invite_text"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        app:layout_constraintEnd_toEndOf="@+id/btnAccept"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/imageSender"
+        app:layout_constraintTop_toBottomOf="@+id/txtInvitorReady" />
+
+    <Button
+        android:id="@+id/btnaccept"
+        android:layout_width="80dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/button_statestwo"
+        android:text="Delta"
+        app:layout_constraintStart_toEndOf="@+id/imageSender"
+        app:layout_constraintTop_toBottomOf="@+id/txtinvitation" />
+
+    <Button
+        android:id="@+id/btnDecline"
+        android:layout_width="80dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/button_statesred"
+        android:text="Avböj"
+        app:layout_constraintStart_toEndOf="@+id/btnaccept"
+        app:layout_constraintTop_toBottomOf="@+id/txtinvitation" />
+
+</android.support.constraint.ConstraintLayout>
