@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Baningo</string>
+    <string name="app_name">Bangino</string>
     <string name="action_sign_in_short">New User</string>
     <string name="email">Email</string>
     <string name="title_activity_login">Log in</string>
@@ -46,7 +46,7 @@
     <string name="vlkmen">Welcome :)</string>
     <string name="Nickname">Username</string>
     <string name="hint_nickname">Username</string>
-    <string name="app_namee">Baningo</string>
+    <string name="app_namee">Bangino</string>
     <string name="meddelande_wait">" Awaiting message from invited players. Have patience :)"</string>
     <string name="waitingInfo">" that everyone should respond"</string>
     <string name="invite_text">"Have invited you "</string>
@@ -92,7 +92,7 @@
     <string name="invite_sub">" Have you been invited to participate in a game? You are a button press from participating."</string>
     <string name="invite_main">Invitations</string>
     <string name="reg_btn">Register</string>
-    <string name="ny_anvandare">Welcome to Baningo!</string>
+    <string name="ny_anvandare">Welcome to Bangino!</string>
     <string name="rules_game">All participants are responsible for four different review cards each. They are marked with numbers 1-4 and have the following text in turn: Does not matter at all, Applies to any part, Complies in essence, and suits very well.         In each round, a participant is in focus.         Someone draws and reads a property card (these are mixed in seven different colors for attributes / personality traits vividly divided by some kind of natural forces -green for energy, green for inner balance, purple for spirituality, orange for relationships, etc.) The card is read aloud for Everybody and all players then choose one of their four rating cards that best suits the current person and the rated character. Some swedens of property cards: Careful - I am thorough and caring. Sex Fixed - My thought world is occupied a lot by sex and eroticism. Unhappy - I do not help others to get more than me. Competition person - I perform my best when it is most important. Imaginative - I have a lively and creative thought and idea world. Flirty - I send out signals for an erotic or friendly purpose. Generous - I would like to share with you. (Yes, by the way, there was a property from each color category, if someone noticed big differences between the different cards ...) When all selected review cards are turned up at the same time, it is clear what everyone thinks about person X regarding this personality trait, this property. Exactly How Careful, Sex-Fixed, Missing, etc. Does his environment now think X is? And exactly what has person X chosen for a judgment card himself? How well do you feel yourself? The game is obviously won by the one who feels best, or in any case succeeds in the best match between their own answers and the majority of the opponents when they like one\'s person. Most points are awarded to the person in the hot seat if all players think exactly the same, something less if you agree with most, fewer points or maybe no reward at all if most or all others have a different opinion. It will of course be the number of the card shown in the most specimens that indicate the score. The score by the way, they come in the form of so-called reward cards made of cardboard in the different colors of the playing cards. You collect a pack of coins (ie points) and most win after a number of played turns or property cards.</string>
     <string name="top_ranking">Top Ranking</string>
     <string name="btntextcreategame">Create Game</string>
